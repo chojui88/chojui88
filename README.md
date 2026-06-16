@@ -26,4 +26,4 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chojui88&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
-    
+    ![Jui's GitHub stats](https://github-readme-stats.vercel.app/api?username=chojui88&show_icons=true&theme=radical)
